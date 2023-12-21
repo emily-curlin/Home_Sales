@@ -1,5 +1,5 @@
 ---
-title: "22: Big Data"
+22: Big Data
 ---
 SparkSQL will be used to determine key metrics about home sales data by creating temporary views, partitioning the data, cacheing and uncacheing a temporary table, and verifying that the table has been uncached.
 
